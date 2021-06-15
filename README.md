@@ -13,3 +13,7 @@ Esse arquivo vai definir o layout da interface do usuário.
 Esse arquivo descreve as características do aplicativo e define seus componentes.
 ### d) Gradle Scripts > build.gradle
 Esse arquivo controla como o plug-in do Gradle cria o seu aplicativo
+## Questão 5
+Na execução do emulador no computador ocorreu o erro: Android Emulator Hypervisor Driver for AMD Processors installation failed.
+Segue abaixo a imagem da aplicação rodando no celular.
+![alt text](https://github.com/Rafas-ms/Primeiro-c-digo-no-Android-Studio/blob/master/print.png)

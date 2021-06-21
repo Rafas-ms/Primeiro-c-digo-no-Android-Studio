@@ -17,3 +17,9 @@ Esse arquivo controla como o plug-in do Gradle cria o seu aplicativo
 Na execução do emulador no computador ocorreu o erro: Android Emulator Hypervisor Driver for AMD Processors installation failed.
 Segue abaixo a imagem da aplicação rodando no celular.
 ![alt text](https://github.com/Rafas-ms/Primeiro-c-digo-no-Android-Studio/blob/master/print.png)
+## Questão 6
+### Cole um print da primeira construção
+![alt text](https://github.com/Rafas-ms/Primeiro-c-digo-no-Android-Studio/blob/master/text.png)
+### Cole um print do código gerado
+![alt text](https://github.com/Rafas-ms/Primeiro-c-digo-no-Android-Studio/blob/master/code.png)
+

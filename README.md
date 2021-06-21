@@ -1,10 +1,10 @@
 # Primeiro-c-digo-no-Android-Studio
 Atividade Prática Android Nativo - 1
-## Questão 1
+## Questão 1 - O que é uma activity?
 Uma activity, ou atividade, é uma interface visual para a interação do usuário, basicamente é uma tela na aplicação. As aplicações tem várias activities e cada uma delas tem alguma funcionalidade e conexões entre elas.
-## Questão 2
+## Questão 2 - O que é um filtro de intenção (Intent, filter Intent)
 O intent é um objeto que é usado para solicitar uma ação de outro componente da aplicação, podendo ser de dois tipos diferentes, os intents explícitos e os intents implícitos. O filtro de intenção filtra as intents que não são significativas para o componente e executa a correspondente, 	se corresponder a mais de um filtro de intenção será exibido para que o usuário escolha o caminho que deseja seguir.
-## Questão 4
+## Questão 4 - O que está contido nos arquivos:
 ### a) app > java > com.example.myfirstapp > MainActivity
 Essa é a atividade principal, quando o aplicativo é executado será iniciado uma instancia dessa activity.
 ### b) app > res > layout > activity_main.xml
@@ -21,5 +21,12 @@ Segue abaixo a imagem da aplicação rodando no celular.
 ### Cole um print da primeira construção
 ![alt text](https://github.com/Rafas-ms/Primeiro-c-digo-no-Android-Studio/blob/master/text.png)
 ### Cole um print do código gerado
-![alt text](https://github.com/Rafas-ms/Primeiro-c-digo-no-Android-Studio/blob/master/code.png)
+![alt text](https://github.com/Rafas-ms/Primeiro-c-digo-no-Android-Studio/blob/master/codigo.png)
+## Questão 7
+### Aplicação rodando
+![alt text](https://github.com/Rafas-ms/Primeiro-c-digo-no-Android-Studio/blob/master/testeFinal.png)
+## Questão 8 - O que mudou? Como as atividades se relacionam?
+Quando o usuário clica no botão uma nova atividade será iniciada contendo a informação do texto inserido.
+
+
 
